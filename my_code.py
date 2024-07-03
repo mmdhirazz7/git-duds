@@ -1,0 +1,1 @@
+print("hi luv" + " I am dhiru.")
